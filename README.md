@@ -9,17 +9,17 @@ It is just fun home project which was made to progress my js skill
 npm install
 ```
 
-#### Start server frontend/backend
+### Start server frontend/backend
 ```
 npm start
 ```
 
-##### Technology stack
+### Technology stack
 
 | frontend | backend |
 | ------ | ------ | 
 | vuejs | nodejs | 
 
 
-###### License
+### License
 [MIT](https://choosealicense.com/licenses/mit/)
